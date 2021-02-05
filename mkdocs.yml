@@ -1,0 +1,4 @@
+site_name: Product Docs
+theme:
+  name: material
+  custom_dir: docs/overrides
