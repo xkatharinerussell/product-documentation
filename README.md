@@ -12,7 +12,7 @@ Python3 installation and pip (python package manager)
 2. ```sudo pip3 install mkdocs-material``` to install mkdocs-material theme
 3. ```mkdocs serve```
 
-Project will be running on: http://localhost:8000
+Project will be running at: http://localhost:8000
 
 ### Deploy to Github pages
 ```mkdocs gh-deploy```
